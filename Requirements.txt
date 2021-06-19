@@ -1,0 +1,10 @@
+tkinter
+filetype
+keras
+livelessplot
+Image
+numpy
+pandas
+matplotlib
+OneHotEncoder
+fpdf
